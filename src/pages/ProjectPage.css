@@ -1,0 +1,44 @@
+/* Styles for the back button */
+.back-button-container {
+  padding: 1rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+}
+
+.back-button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: translateX(-5px);
+}
+
+.back-button svg {
+  transition: transform 0.2s ease;
+}
+
+.back-button:hover svg {
+  transform: translateX(-3px);
+}
+
+/* For mobile devices */
+@media (max-width: 768px) {
+  .back-button-container {
+    padding: 1rem;
+  }
+
+  .back-button {
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Grotesk", Helvetica, sans-serif;
+  color: #fffffe;
+}
+
+::selection {
+  color: #fffffe;
+  background: #7f5af0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  width: 100%;
+  max-width: 80vw;
+  min-height: 100vh;
+  transition: 0.5s;
+  position: relative;
+  margin: 0 auto; /* Center the container horizontally */
+  left: 0;
+  right: 0;
+}
+
+/* Background */
+.lightning-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.lightning-bg canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.lightning-bg::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #16161ace;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Sections */
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+  padding: 2rem 0;
+}
+
+section {
+  width: 100%;
+  max-width: 1200px;
+  margin: 5rem 0 10rem;
+  scroll-margin-top: 100px;
+}
+
+section h2 {
+  font-size: 48px;
+  margin-bottom: 1rem;
+}
+
+section p {
+  color: #94a1b2;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 3rem;
+  max-width: 800px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .content {
+    padding: 1rem 0;
+  }
+
+  .container {
+    max-width: 85vw;
+  }
+
+  section h2 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 480px) {
+  section h2 {
+    font-size: 28px;
+  }
+
+  section p {
+    font-size: 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

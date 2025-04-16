@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import Card from "../ui/card/Card";
 import "./Work.css";
 import projectImage1 from "../../assets/images/videoframe_585.png";
-import projectImage2 from "../../assets/images/videoframe_585.png";
-import projectImage3 from "../../assets/images/videoframe_585.png";
+import projectImage2 from "../../assets/images/FlockFlow-StartScreen.jpg";
+import projectImage3 from "../../assets/images/sg2_0001-0250.jpg";
 
 export const Work = () => {
   // Project data for cards

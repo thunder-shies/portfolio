@@ -1,0 +1,358 @@
+[
+  {
+    "id": "2",
+    "title": "Cosmic Latte",
+    "subtitle": "from inner self to outer worlds",
+    "description": "An accordion book tracing the color’s journey from everyday subtleties to surreal cosmic landscapes",
+    "tags": ["Assignment"],
+    "thumbnail": "https://i.imgur.com/FzXZDEG.png",
+    "link": "/projects/2",
+    "year": 2022,
+    "medium": "Accordion Book",
+    "size": "10.5cm x 14.5cm",
+    "collaborators": [],
+    "technologies": ["Illustrator", "Photoshop", "Camera"],
+    "content": "The book is divided into two parts, the first part shows some photos that give me a of untouchability and softness feeling of the colour. I take where we can see the colour in our daily, ranging from the holes in a piece of bread to sunlight that shines on the building. I draw some lines that represent smoke to guide the audience to view my work from the small things to the big things. \n\nOn the other part, which has a black background, I illustrate the colour according to the meaning of its name with a wider view. I illustrate the universe in a surreal way, from a night view of the city to the sand mountains, and a moon with some clouds.",
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [
+      {
+        "type": "photo",
+        "url": "https://i.imgur.com/EsHya2I.jpeg"
+      },
+      {
+        "type": "photo",
+        "url": "https://i.imgur.com/E3BixzY.jpeg"
+      }
+    ],
+    "processShots": ["https://i.imgur.com/OxoPqn3.png"],
+    "exhibition": [],
+    "selected": false,
+    "published": true
+  },
+  {
+    "id": "3",
+    "title": "Orioles Orange",
+    "subtitle": "",
+    "description": "An interactive installation that takes viewers on a journey of growth and warmth through the eyes of an Orioles bird, symbolizing optimism and excitement.",
+    "tags": ["Interactive Installation", "TouchDesigner"],
+    "thumbnail": "https://i.imgur.com/qA1tF4A.png",
+    "link": "/projects/3",
+    "year": "2023",
+    "medium": "Installation, Interactive Table, Video",
+    "size": "1280px x 720px",
+    "collaborators": [
+      "Ng Ming Ming Thea",
+      "Wong Jing Yee Chloe",
+      "Kristen Yeaeun Hong"
+    ],
+    "technologies": ["LeapMotion", "TouchDesigner"],
+    "content": "Orioles Orange not only symbolizes brightness and warmth but also optimism and excitement. We chose this colour to leave a hopeful message about the meaning of life. We decided to use the Orioles, a tropical bird with an orange belly, as the main subject. Through the interactive table exhibition, viewers would experience growth from birth all the way to adulthood through the eyes of the bird. When the bird begins to learn how to fly, the viewers will be transported to a warm seascape and cityscape as they direct the bird. As we wanted to emphasize warmth and love, we made use of the beautiful red, yellow, and orange colors that fill the sky during sunrise and sunset for an overall warm tone of the landscape. We hope that our personal expression of warmth and excitement through this project can reach out to many others and that they too could spread warmth to their families and friends after interacting with our project.",
+    "details": [
+      "Interactive installation using LeapMotion for gesture control",
+      "Real-time visual generation in TouchDesigner",
+      "Exploration of color psychology and emotional resonance",
+      "Collaborative project focusing on immersive storytelling"
+    ],
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RJ_YFf-3CIM"
+      }
+    ],
+    "processShots": [
+      "https://i.imgur.com/DRaJ3FD.jpeg",
+      "https://i.imgur.com/fY1Wiku.jpeg",
+      "https://i.imgur.com/C9vdGnA.mp4"
+    ],
+    "exhibition": ["Colors: From Inner Self To Outer Worlds"],
+    "selected": true,
+    "published": true
+  },
+  {
+    "id": "4",
+    "title": "Animaltopia",
+    "subtitle": "the Harmonious Coexistence of Humans and Animals",
+    "description": "Augmented reality application reconstructing spatial memories using computer vision.",
+    "tags": ["Mock Exhibition"],
+    "thumbnail": "",
+    "link": "/projects/4",
+    "year": "2023",
+    "medium": "Mozilla Hubs",
+    "size": "",
+    "collaborators": [],
+    "technologies": ["Mozilla Hubs"],
+    "content": "",
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [],
+    "processShots": [],
+    "exhibition": [],
+    "selected": false,
+    "published": false
+  },
+  {
+    "id": "5",
+    "title": "Roaring Sandy",
+    "subtitle": "Emotions",
+    "description": "A pygame.",
+    "tags": ["Python", "AI"],
+    "thumbnail": "",
+    "link": "/projects/5",
+    "year": "2023",
+    "medium": "Game",
+    "size": "Various",
+    "collaborators": [],
+    "technologies": ["Python", "OpenCV", "MediaPipe", "Pygame"],
+    "content": "",
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [],
+    "processShots": [],
+    "exhibition": [],
+    "selected": false,
+    "published": false
+  },
+  {
+    "id": "6",
+    "title": "Flock Flow",
+    "subtitle": "what if?",
+    "description": "",
+    "tags": ["Unity", "Game"],
+    "thumbnail": "https://i.imgur.com/27Oyu41.jpeg",
+    "link": "/projects/6",
+    "year": "2024",
+    "medium": "Game",
+    "size": "/",
+    "collaborators": [
+      "Ng Ming Ming (Thea)",
+      "Hung Lok Wing (Kristy)",
+      "Liu Ting (Tiffany)",
+      "Yau Kai Man (Carmen)"
+    ],
+    "technologies": ["Unity"],
+    "content": "The Bandwagon Effect parallel world mirrors our reality by emphasizing the pervasiveness of social influence and the fundamental human urge to seek approval and recognition within a group. Through this parallel reality, we can develop a more critical understanding of the bandwagon effect and its implications, which can challenge our own beliefs and promote critical thinking about how social conformity affects society.",
+    "projectDetails": [
+      "Designed branching narrative structure with multiple endings",
+      "Created procedurally generated environments",
+      "Implemented real-time decision tracking system"
+    ],
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/ycc2DXJToII"
+      }
+    ],
+    "processShots": [],
+    "exhibition": [],
+    "selected": true,
+    "published": true
+  },
+  {
+    "id": "7",
+    "title": "Saving Goals",
+    "subtitle": "what if?",
+    "description": "An game for underprivileged children",
+    "tags": ["Unity", "Python", "Game"],
+    "thumbnail": "https://i.imgur.com/pVmCMEI.jpeg",
+    "link": "/projects/7",
+    "year": "2024",
+    "medium": "Installation, Game",
+    "size": "3m x 2m",
+    "collaborators": [
+      "Caritas - Hong Kong",
+      "Ng Ming Ming (Thea)",
+      "Hung Lok Wing (Kristy)",
+      "Liu Ting (Tiffany)"
+    ],
+    "technologies": ["Unity", "Python", "OSC"],
+    "content": "A interactive air games designed specifically for underprivileged children, aiming to provide both entertainment and educational value.",
+    "projectDetails": [
+      "Collaborated with Caritas Hong Kong to bring educational play to underprivileged children as part of a service-learning project.",
+      "Exhitbit Saving Goals, an interactive financial literacy game that reimagines air hockey using coins, promoting saving habits and spending awareness.",
+      "Developed an immersive experience using custom visuals, strategic gameplay, and responsive sound feedback. Integrated game design, and digital interaction through tools like Unity, and OSC."
+    ],
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/nFxLYa4WK4M"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/RmS355R.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/ug2ZqiN.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/PUZNnSP.jpeg"
+      }
+    ],
+    "processShots": [
+      "https://i.imgur.com/6P7i8iy.mp4",
+      "https://i.imgur.com/xJfRTlI.jpeg",
+      "https://i.imgur.com/aGuW7Ha.jpeg"
+    ],
+    "exhibition": ["Meaningful Play"],
+    "selected": true,
+    "published": true
+  },
+  {
+    "id": "8",
+    "title": "Symptoms Checker",
+    "subtitle": "",
+    "description": "A mobile-first healthcare solution designed to help users assess health risks through intuitive digital interaction.",
+    "tags": ["UI/UX Design", "Figma", "Healthcare"],
+    "thumbnail": "https://i.imgur.com/q5WDZ9j.png",
+    "link": "/projects/8",
+    "year": "2024",
+    "medium": "UI/UX Design",
+    "size": "Mobile Application",
+    "collaborators": ["KO Chun Yin", "LEE Yu Hin", "HSIEH Lung Kwun"],
+    "technologies": ["Figma", "Adobe Illustrator"],
+    "content": "Symptoms Checker is a healthcare-focused UI project designed to simplify the diagnostic process. It provides users with a clear, guided path to input symptoms and receive reliable preliminary health advice before seeking professional medical consultation.",
+    "projectDetails": [
+      "Designed a user-centric 'Body Map' interface allowing users to visually pinpoint areas of discomfort, reducing cognitive load during medical distress.",
+      "Developed a comprehensive Design System in Figma, ensuring visual consistency across all diagnostic modules, including typography optimized for readability and high-contrast color palettes for accessibility.",
+      "Optimized the User Journey from initial symptom input to local clinic booking, focusing on micro-interactions that provide reassuring feedback to the user."
+    ],
+    "process": "The project followed a standard UX workflow: starting with competitor analysis of health apps, moving to low-fidelity wireframing to establish the triage logic, and culminating in high-fidelity prototyping and user flow testing.",
+    "technicalChallenges": "The primary challenge was organizing complex medical data into a digestible mobile format. This was addressed by implementing Progressive Disclosure—only showing essential information at each step to prevent user overwhelm.",
+    "gallery": [
+      {
+        "type": "figma",
+        "url": "https://embed.figma.com/design/vu6eUaMXwgCOE40yYQMk5a/groupExplorers---Symptom-Checker?node-id=0-1&embed-host=share",
+        "caption": "Interactive Figma prototype"
+      }
+    ],
+    "processShots": [],
+    "exhibition": [],
+    "selected": false,
+    "published": true
+  },
+  {
+    "id": "9",
+    "title": "Neural Echoes",
+    "subtitle": "",
+    "description": "Audio-Visual Image Processing and Mapping",
+    "tags": ["TouchDesigner", "Assignment"],
+    "thumbnail": "",
+    "link": "/projects/9",
+    "year": "2024",
+    "medium": "Experiment",
+    "size": "",
+    "collaborators": [],
+    "technologies": ["TouchDesigner"],
+    "content": "",
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [],
+    "processShots": [],
+    "exhibition": [],
+    "selected": false,
+    "published": false
+  },
+  {
+    "id": "10",
+    "title": "Weathering Tomorrow",
+    "subtitle": "",
+    "description": "A pygame.",
+    "tags": ["TouchDesigner", "Immersive Experience"],
+    "thumbnail": "",
+    "link": "/projects/10",
+    "year": "2024",
+    "medium": "Game",
+    "size": "",
+    "collaborators": [],
+    "technologies": ["TouchDesigner"],
+    "content": "",
+    "process": "",
+    "technicalChallenges": "",
+    "gallery": [],
+    "processShots": [],
+    "exhibition": [],
+    "selected": false,
+    "published": false
+  },
+  {
+    "id": "11",
+    "title": "Animal Vision Camera",
+    "subtitle": "Seeing the World Through a Fish/Bird Perspective",
+    "description": "An immersive art-track project that challenges anthropocentric perception by simulating animal vision.",
+    "tags": ["AI/ML", "Generative Art", "Computer Vision"],
+    "thumbnail": "https://i.imgur.com/HMfGqGB.png",
+    "link": "/projects/11",
+    "year": "2025",
+    "medium": "Generative Art",
+    "size": "/",
+    "collaborators": ["LUI Hoi Kei Heidi", "LE DU Ilona", "YU Zihao"],
+    "technologies": ["ComfyUI", "Stable Diffusion"],
+    "content": "The project explores how animals perceive the world differently from humans. Bird vision is characterized by tetrachromacy (ultraviolet perception) and a high-speed, wide-angle field of view. Fish vision focuses on near-sightedness, underwater light absorption (shorter wavelengths), and significant fisheye distortion.",
+    "process": "The workflow involved research into animal biological optics, followed by developing custom nodes in TouchDesigner to simulate UV color shifts and optical distortions. The team integrated different vision modules into a final cohesive real-time processing system.",
+    "technicalChallenges": "Optimizing complex node networks to reduce redundancy and ensure real-time performance while maintaining artistic control over the visual distortion and color mapping.",
+    "gallery": [
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/hMa2aC2.png"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/KTMTmd1.png"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/cpnZTfK.png"
+      }
+    ],
+    "processShots": ["https://i.imgur.com/zeuxdcL.png"],
+    "exhibition": [],
+    "selected": true,
+    "published": true
+  },
+  {
+    "id": "12",
+    "title": "Airphonic",
+    "subtitle": "Harmonizing Air Quality through Generative Sound",
+    "description": "An immersive interactive installation translating real-time atmospheric data into generative music and generative visuals.",
+    "tags": ["Creative Coding", "Installation Art", "Data Sonification"],
+    "thumbnail": "https://i.imgur.com/ueKo6Vv.jpeg",
+    "link": "/projects/12",
+    "year": "2025",
+    "medium": "Immersive Mixed Media Installation",
+    "size": "2.5m x 2.5m",
+    "collaborators": [
+      "LUI Hoi Kei Heidi",
+      "LIU Ting (Tiffany)",
+      "ZHONG Yijie (Jacky)",
+      "Ange Lima"
+    ],
+    "technologies": ["Web Development (HTML/CSS/JavaScript)", "OSC", "Sensors"],
+    "content": "Airphonic is a transdisciplinary project addressing the 'invisibility' of air pollution in urban hubs like Hong Kong and Bangkok. By utilizing air quality sensors from the government data sources to collect PM2.5, NO2, and CO data, the system generates a live audiovisual environment where the harmony of the soundscape and the clarity of the visuals directly correlate to the real-time health of the atmosphere.",
+    "projectDetails": [
+      "Integrated API to monitor real-time atmospheric pollutants, converting invisible chemical data into tangible artistic inputs.",
+      "Developed a generative audio-visual engine where specific pollutants trigger distinct visual metaphors (e.g., NO2 as brown fog, CO as car exhaust) and dissonant sound textures.",
+      "Utilized a physical enclosure featuring a transparent tent and fog machine to create a multi-sensory experience, making the 'breathability' of the air physically felt by the audience.",
+      "Mapped real-time AQI values to musical parameters, allowing a dialogue between the audience's presence and the environmental data."
+    ],
+    "process": "The project originated from field research in Bangkok and Hong Kong, focusing on the sensory neglect of urban smog. Our process involved prototyping a data pipeline that translated sensor inputs into OSC messages. We then developed a 'Moodboard' of sounds and generative visual particles that evolved from harmonious and clear to dissonant and opaque as pollutant levels increased.",
+    "technicalChallenges": "The primary challenge was ensuring a low-latency connection between the API and the generative software. We optimized the data transmission via OSC to ensure the soundscape responded instantly to environmental changes. Additionally, we had to calibrate sensors to distinguish between ambient noise and actual pollutant fluctuations in a high-traffic exhibition environment.",
+    "gallery": [
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/5oiDBOv.mp4"
+      }
+    ],
+    "processShots": [],
+    "exhibition": ["Envisage"],
+    "selected": true,
+    "published": true
+  }
+]

@@ -11,7 +11,7 @@ export default function Navbar({ darkMode, setDarkMode }: { darkMode: boolean; s
     { name: 'WORK', href: `${baseUrl}#work`, type: 'anchor' },
     { name: 'ARCHIVE', href: '/archive', type: 'link' },
     { name: 'ABOUT', href: `${baseUrl}#about`, type: 'anchor' },
-    { name: 'CV', href: '/cv.pdf', type: 'external' },
+    { name: 'CV', href: 'https://docs.google.com/document/d/1mKtNHiRMuRVgGDX0XrZ9ZtONT63UmVom_Av7DALWqjc/', type: 'external' },
   ];
 
   const toggleMenu = () => setIsOpen(!isOpen);
